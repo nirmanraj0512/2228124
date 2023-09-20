@@ -14,19 +14,23 @@
     height: 300px;
     width: 300px;
     position:relative;
-    left: 292px;
+    left: 301px;
+    bottom: 300px;
     
 }
 #blue{
     background-color: blue;
     height: 300px;
     width: 300px;
-    display: flex;
+    position: relative;
+    bottom: 300px;
+    left: 0px;
 }
 #red{
     background-color:red;
     height: 300px;
     width: 300px;
     position:relative;
-    left: 292px;
+    left: 300px;
+    bottom: 600px;
 }

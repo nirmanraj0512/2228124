@@ -1,0 +1,32 @@
+#box{
+    height: 600px;
+    width: 600px;
+
+}
+#yellow{
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+#green{
+    background-color: green;
+    height: 300px;
+    width: 300px;
+    position:relative;
+    left: 292px;
+    
+}
+#blue{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+#red{
+    background-color:red;
+    height: 300px;
+    width: 300px;
+    position:relative;
+    left: 292px;
+}
